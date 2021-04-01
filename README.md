@@ -5,3 +5,4 @@
   * third_feature
   * fourth_feature
   * fifth_feature
+  * sixth_feature
