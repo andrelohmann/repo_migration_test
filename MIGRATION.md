@@ -9,3 +9,7 @@
   * do changes and push them to old gitlab branch
   * when ready push all changes to github
   * git push --all github
+  * sync deleted branches on origin with local
+  * git remote prune origin
+  * sync deleted branches from local to remote github
+  * git push --all --prune github
