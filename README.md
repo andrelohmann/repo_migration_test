@@ -2,3 +2,4 @@
 
   * first_feature
   * second_feature
+  * third_feature
