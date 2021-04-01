@@ -6,3 +6,4 @@
   * fourth_feature
   * fifth_feature
   * sixth_feature
+  * seventh_feature
