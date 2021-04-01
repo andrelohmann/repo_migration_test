@@ -16,4 +16,4 @@ jobs:
 
     - name: echo README.md
       run: |
-        echo ./README.md
+        cat ./README.md
