@@ -8,3 +8,4 @@
   * sixth_feature
   * seventh_feature
   * eights feature
+  * yet another feature
