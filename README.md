@@ -9,4 +9,4 @@
   * seventh_feature
   * eights feature
   * nineth feature
-  * yet another feature
+  * tenth feature
